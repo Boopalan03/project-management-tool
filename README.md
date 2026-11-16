@@ -165,3 +165,4 @@ The built-in database seeder initializes the following test accounts:
 
 ## 📜 License
 This project was developed for academic and evaluation purposes during the internship program at **Codec Technologies**.
+
